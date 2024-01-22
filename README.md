@@ -5,4 +5,4 @@ Building  Ecommerce Website With HTML CSS JavaScript
 
 <h1>ScreenShot<h1>
 
-![](E-commere-gif)
+![](E-commere.gif)
